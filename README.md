@@ -1,4 +1,4 @@
-# Zomboid Builds v41.78.16
+# Zomboid Builds v42.15.1
 
 Una aplicación web moderna para crear y gestionar builds de personajes en Project Zomboid. Esta herramienta permite a los jugadores diseñar sus personajes de manera intuitiva, gestionando profesiones, rasgos positivos y negativos, y calculando automáticamente las habilidades resultantes.
 
