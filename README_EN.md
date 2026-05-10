@@ -1,4 +1,4 @@
-# Zomboid Builds v41.78.16
+# Zomboid Builds v42.17.0
 
 A modern web application for creating and managing character builds in Project Zomboid. This tool allows players to design their characters intuitively, managing professions, positive and negative traits, and automatically calculating the resulting skills.
 
