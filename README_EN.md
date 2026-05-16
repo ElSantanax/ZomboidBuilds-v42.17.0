@@ -239,5 +239,5 @@ This project is under the MIT License.
 
 ---
 
-**Version**: v41.78.16 
-**Last updated**: 2025
+**Version**: v42.18.0 
+**Last updated**: 2026
