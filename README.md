@@ -233,7 +233,6 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 🤝 Contacto y Soporte
 
-- **Discord**: [https://discord.gg/d5yy6jHQJr](https://discord.gg/d5yy6jHQJr)
 - **Twitter**: [@ElSantanax](https://x.com/ElSantanax)
 - **PayPal**: [https://paypal.me/ElSantanax](https://paypal.me/ElSantanax)
 
