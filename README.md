@@ -239,5 +239,5 @@ Este proyecto está bajo la Licencia MIT.
 
 ---
 
-**Versión**: v41.78.16-refactor  
-**Última actualización**: 2025
+**Versión**: v42.18.0-refactor  
+**Última actualización**: 2026
