@@ -2,7 +2,7 @@
 
 https://zomboidbuilds.vercel.app/
 
-<img width="1920" height="1080" alt="Captura de pantalla de 2026-08-04 06-49-33" src="https://github.com/user-attachments/assets/4c5e1681-a483-4bfe-a004-090f929a34c8" />
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-08-04 07-01-13" src="https://github.com/user-attachments/assets/16d022dc-9b83-48f9-8be2-8065070a8899" />
 
 ## ¿Qué es Zomboid Builds?
 
