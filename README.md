@@ -1,4 +1,4 @@
-# Zomboid Builds v42.20.0
+# Zomboid Builds v42.20.2
 
 https://zomboidbuilds.vercel.app/
 
